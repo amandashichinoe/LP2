@@ -1,0 +1,10 @@
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\bin\Debug\Calculadora_Volume.exe.config
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\bin\Debug\Calculadora_Volume.exe
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\bin\Debug\Calculadora_Volume.pdb
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.csprojAssemblyReference.cache
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.Form1.resources
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.Properties.Resources.resources
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.csproj.GenerateResource.cache
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.csproj.CoreCompileInputs.cache
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.exe
+C:\Users\joabe_bgl9ppe\Desktop\Calculadora_Volume\Calculadora_Volume\obj\Debug\Calculadora_Volume.pdb
