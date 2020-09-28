@@ -1,0 +1,10 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.exe.config
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.Form1.resources
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.Properties.Resources.resources
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade3\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraPesoIdeal", "CalculadoraPesoIdeal\CalculadoraPesoIdeal.csproj", "{ADA6474C-0B6D-4AFD-A63A-0A245AB9329F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA6474C-0B6D-4AFD-A63A-0A245AB9329F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA6474C-0B6D-4AFD-A63A-0A245AB9329F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA6474C-0B6D-4AFD-A63A-0A245AB9329F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA6474C-0B6D-4AFD-A63A-0A245AB9329F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F5B2713-E106-4A37-8E86-BC0328A71282}
+	EndGlobalSection
+EndGlobal

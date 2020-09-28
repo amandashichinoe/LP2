@@ -1,0 +1,10 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\bin\Debug\LadosTriangulo.exe.config
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\bin\Debug\LadosTriangulo.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\bin\Debug\LadosTriangulo.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.Form1.resources
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.Properties.Resources.resources
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\LP2\Atividade4\LadosTriangulo\LadosTriangulo\obj\Debug\LadosTriangulo.pdb
