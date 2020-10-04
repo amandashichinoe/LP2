@@ -13,8 +13,6 @@ namespace CalculadoraSalario
     public partial class Form1 : Form
     {
         double aliqINSS, descINSS, aliqIRPF, descIRPF, salBruto, numFilhos, salFamilia, salLiquido;
-        string nome;
-      
 
         public Form1()
         {
