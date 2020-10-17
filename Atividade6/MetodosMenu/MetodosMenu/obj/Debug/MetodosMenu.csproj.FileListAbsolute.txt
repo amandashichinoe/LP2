@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\bin\Debug\MetodosMenu.exe.config
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\bin\Debug\MetodosMenu.exe
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\bin\Debug\MetodosMenu.pdb
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.frmPrincipal.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.Properties.Resources.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.exe
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.pdb
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.frmExercicio2.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.frmExercicio3.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.frmExercicio4.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\MetodosMenu\MetodosMenu\obj\Debug\MetodosMenu.frmExercicio5.resources
