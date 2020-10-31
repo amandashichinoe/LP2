@@ -40,6 +40,7 @@
             // 
             this.txtPalavra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPalavra.Location = new System.Drawing.Point(3, 60);
+            this.txtPalavra.MaxLength = 50;
             this.txtPalavra.Name = "txtPalavra";
             this.txtPalavra.Size = new System.Drawing.Size(385, 26);
             this.txtPalavra.TabIndex = 0;

@@ -39,6 +39,7 @@
             // rchFrase
             // 
             this.rchFrase.Location = new System.Drawing.Point(3, 32);
+            this.rchFrase.MaxLength = 100;
             this.rchFrase.Name = "rchFrase";
             this.rchFrase.Size = new System.Drawing.Size(387, 86);
             this.rchFrase.TabIndex = 0;
