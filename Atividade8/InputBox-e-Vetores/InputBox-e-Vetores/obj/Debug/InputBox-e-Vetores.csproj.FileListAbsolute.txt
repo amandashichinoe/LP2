@@ -1,0 +1,11 @@
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\bin\Debug\InputBox-e-Vetores.exe.config
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\bin\Debug\InputBox-e-Vetores.exe
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\bin\Debug\InputBox-e-Vetores.pdb
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox-e-Vetores.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox_e_Vetores.Form1.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox_e_Vetores.Properties.Resources.resources
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox-e-Vetores.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox-e-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox-e-Vetores.exe
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox-e-Vetores.pdb
+C:\Users\amand\OneDrive\Documentos\repositorios GitHub\LP2\Atividade8\InputBox-e-Vetores\InputBox-e-Vetores\obj\Debug\InputBox_e_Vetores.frmExercicio7.resources
